@@ -5,7 +5,7 @@
 This repository contains a **Book Recommendation System** powered by **Natural Language Processing (NLP)**, **LangChain**, **Hugging Face**, and **Gemini AI**. It delivers **personalized book recommendations** based on semantic similarity, emotional tone, and category filtering.
 
                                  Heres a Screenshot of recommendation system 
-<img src="https://github.com/bishal-red123/Book-Recommendation-system-/blob/main/Screenshot%202025-04-05%20204056.png" width="500">
+<img src="Screenshot 2025-05-09 095923.png" >
 
 
 ## 🚀 Features
@@ -20,7 +20,7 @@ This repository contains a **Book Recommendation System** powered by **Natural L
   Enables users to refine recommendations by selecting from various book categories.
 
 - **🖥️ Interactive Dashboard**  
-  Built with **Gradio**, the UI allows users to input descriptions, apply filters, and view recommendations interactively.
+  Built with **Streamlit**, the UI allows users to input descriptions, apply filters, and view recommendations interactively.
 
 ---
 
@@ -59,7 +59,7 @@ This repository contains a **Book Recommendation System** powered by **Natural L
 - **[LangChain](https://www.langchain.com/):** Document loading, text splitting, and semantic search.
 - **[Hugging Face](https://huggingface.co/):** Sentiment analysis and emotional tone classification.
 - **[Gemini AI](https://deepmind.google/technologies/gemini/):** Generating vector embeddings for semantic similarity.
-- **[Gradio](https://www.gradio.app/):** Building an interactive frontend interface.
+- **[Streamlit]:** Building an interactive frontend interface.
 - **[FastAPI](https://fastapi.tiangolo.com/):** Serving the backend API.
 - **Pandas & NumPy:** For data processing and manipulation.
 
@@ -99,7 +99,6 @@ See the [LICENSE](LICENSE) file for more details.
 
 - [LangChain](https://www.langchain.com/)  
 - [Hugging Face](https://huggingface.co/)  
-- [Gradio](https://www.gradio.app/)  
 - [Gemini AI](https://deepmind.google/technologies/gemini/)
 
 ---
